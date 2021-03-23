@@ -71,6 +71,9 @@ public class Banco {
                             }while(a!=1);
                         break;
 
+                        case 3:
+                        break;
+
                         default:
                         System.out.println("\nIngrese una opcion valida\n");
                         break;
