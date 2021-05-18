@@ -1,0 +1,18 @@
+Datos del estudiante 1: 
+Nombre: Sirc Sibaja 
+Matricula: 1272558 
+Calificaciones: [67] [87] [97] [100] [78] [99] [87]  
+Promedio: 87.85714 
+
+Datos del estudiante 2: 
+Nombre: Jorge Flores 
+Matricula: 1274537 
+Calificaciones: [58] [67] [98] [78] [99] [69] [77]  
+Promedio: 78.0 
+
+Datos del estudiante 3: 
+Nombre: Fernando Gomez 
+Matricula: 1285436 
+Calificaciones: [100] [86] [81] [91] [82] [74] [66]  
+Promedio: 82.85714 
+
